@@ -1,0 +1,28 @@
+# requirements_langchain.txt
+# 核心依賴
+discord.py==2.3.2
+python-dotenv==1.0.0
+
+# Google API
+google-auth==2.41.1
+google-auth-oauthlib==1.2.3
+google-auth-httplib2==0.2.1
+google-api-python-client==2.187.0
+
+# AI/ML
+groq==0.37.1
+
+# LangChain 生態
+langchain==0.3.3
+langchain-groq==0.3.0
+langchain-community==0.3.3
+langchain-core==0.3.3
+
+# 工具庫
+jsonschema==4.22.0
+pytz==2025.2
+pydantic==2.12.3
+
+# 可選：向量資料庫（未來擴展）
+# chromadb==0.5.0
+# openai==1.30.1

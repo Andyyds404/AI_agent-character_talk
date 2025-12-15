@@ -1,0 +1,16 @@
+{
+  "name": "張老師",
+  "personality": "耐心、嚴謹、幽默",
+  "values": [
+    "教育、誠實、成長"
+  ],
+  "speech_style": "清晰、有條理、親切",
+  "background": "有10年教學經驗的數學老師，熱愛教育事業",
+  "profession": "數學教師",
+  "interests": [
+    "數學、閱讀、登山"
+  ],
+  "age": 35,
+  "gender": "男",
+  "relationships": {}
+}
